@@ -1,0 +1,20 @@
+.banner {
+  width: 100%;
+  position: absolute;
+  top: 25%;
+  text-align: center;
+}
+
+.banner__heading {
+  font-size: 6rem;
+  font-weight: 300;
+  color: #fff;
+  margin-bottom: 3rem;
+}
+
+.banner__paragraph {
+  font-size: 1.8rem;
+  color: #fff;
+  width: 50%;
+  margin: 0 auto 4rem auto;
+}
